@@ -50,6 +50,7 @@ def get_cmmdc_v2(x, y):
     y=r
   return x
 
+
 def menu():
   print("Alegeti optiunea:")
   print("1.Verificare prim")
